@@ -1,5 +1,3 @@
-
-
 def bubble_sort(arr)
 	loop do 
 		swapping = false
@@ -13,8 +11,6 @@ def bubble_sort(arr)
   end
   arr
 end
-
-
 
 arr = [10,43,23,45,7,43,2,3]
 
