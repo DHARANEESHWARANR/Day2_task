@@ -15,11 +15,6 @@ def max_profit(arr)
     max_profit
 end
 
-
-
-
-
-
 arr = [17,3,1,6,9,15,8,34]
 
 result= max_profit(arr)
